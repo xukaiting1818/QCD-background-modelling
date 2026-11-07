@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+uproot
+awkward
+torch
+jupyterlab
+dcor  # optional: distance correlation in the extended correlation study
